@@ -28,4 +28,4 @@ scrape(full_url)
 # export to cvs 
 # support more data (hours played, etc.)
 # rewrite for js/ts?
-# input leniency?
+# UI
